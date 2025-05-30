@@ -17,7 +17,7 @@
 Execute o script diretamente com o comando:
 
 ```bash
-sudo wget --inet4-only -O- https://raw.githubusercontent.com/CarloseOldenburg/updater/refs/heads/main/versao.sh | bash
+sudo wget --inet4-only -O- https://raw.githubusercontent.com/CarloseOldenburg/Versao-iFood/refs/heads/main/versao-ifood | bash
 ````
 
 ---
